@@ -7,3 +7,5 @@
 
 /* Category-specific publishing workspace */
 #categoryFields[hidden],#imageFields[hidden],#videoFields[hidden],#websiteFields[hidden],#appFields[hidden]{display:none!important}.category-editor-intro{margin:24px 0;padding:20px;border-radius:14px;background:linear-gradient(135deg,#222d3a,#171e29);border:1px solid #3b4b59}.category-editor-intro h3{font-size:21px;margin:10px 0 6px;color:#f4efe9}.category-editor-intro p{font-size:13px;line-height:1.7;color:#a8b5c3;margin:0}.category-media{padding:22px;margin:24px 0;border:1px solid #394d5c;border-radius:14px;background:#121b26}.category-media .panel-head p{color:#a8b5c3;font-size:13px;line-height:1.6}.category-media label{display:block;margin-top:18px}.category-media button{margin:12px 0 0}@media(max-width:600px){.category-media{padding:16px}}
+
+/* Profile editor */#view-profile .panel-head p{font-size:13px;color:var(--muted);line-height:1.7;margin:12px 0 0}.personal-photo{display:block;max-width:260px;width:100%;height:auto;object-fit:contain;border-radius:12px;margin:0 0 22px}
